@@ -1,5 +1,8 @@
 
 *.txt
 
-Data
+.ipynb_checkpoints
+examples
+datasets
+Sunny_B
 .ipynb_checkpoints
