@@ -6,3 +6,6 @@ examples
 datasets
 Sunny_B
 .ipynb_checkpoints
+my_model*
+*.png
+checkpoint
